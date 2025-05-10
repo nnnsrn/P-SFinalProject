@@ -4,16 +4,16 @@ This is a web-based application designed to help Computer Science students perfo
 
 ---
 
-## 🔧 Built With
+## Built With
 
 - Python (Flask)
-- HTML/CSS (Vanilla)
+- HTML/CSS 
 - Matplotlib & Seaborn (for plots)
 - NumPy & SciPy (for calculations)
 
 ---
 
-## 📊 Features
+##  Features
 
 ### 🟩 Basic Statistics
 - Mean, Median, Mode
@@ -39,7 +39,7 @@ This is a web-based application designed to help Computer Science students perfo
 
 ---
 
-## 🖼 Visual Output Examples
+##  Visual Output Examples
 
 Each calculation generates:
 - Interactive plots (e.g., distribution curves, boxplots, regression lines)
@@ -48,7 +48,7 @@ Each calculation generates:
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 ### Prerequisites:
 - Python 3.8+
